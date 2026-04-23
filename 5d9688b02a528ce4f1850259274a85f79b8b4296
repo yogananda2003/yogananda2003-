@@ -1,0 +1,24 @@
+.github/workflows/snake.yml
+  88c7971e8ca9da55 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "5d9688b02a528ce4f1850259274a85f79b8b4296",
+  "prompts": {
+    "88c7971e8ca9da55": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "058e755b-1670-4673-a269-57eb044c877c",
+        "model": "default"
+      },
+      "human_author": "Yogananda.b",
+      "messages": [],
+      "total_additions": 28,
+      "total_deletions": 27,
+      "accepted_lines": 28,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/be47d3de192f824c719ca16ea33e6825dd1dffb52028c33275747bb9652b2471"
+    }
+  }
+}
