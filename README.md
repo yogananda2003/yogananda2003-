@@ -85,15 +85,7 @@ class Yogananda:
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Deals Print
-*Requirement-Aware Product Recommendation Tool*
 
-An AI workflow that reads a client company's needs and maps them to the right products from an org's portfolio — cutting pre-sales prep time and boosting alignment.
-
-**Stack:** `React` `FastAPI` `AWS Bedrock` `MongoDB` `REST`
-
-</td>
-<td width="50%" valign="top">
 
 ### 📸 AI Event Photo Organizer
 *Facial recognition for thousands of photos*
