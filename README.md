@@ -67,7 +67,6 @@
 
 `№ 01  ·  ENTERPRISE AI`
 
-№ 01  ·  ENTERPRISE AI  
 
 ## J.A.R.V.I.S  
 
